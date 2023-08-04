@@ -1,0 +1,34 @@
+
+<html>
+<head></head>
+<body></body>
+<h1></h1>
+up to
+<h6></h6>
+<pre>pre Formate tag</pre>
+<p>paragraph tag</p>
+<u>under line tag</u>
+<hr>Horizontal line tag
+<b>Bold tag</b>
+(or)
+<strong></strong>
+<br>Break tag
+<i>Italic tag</i>
+<del>Delete tag</del>
+<abbr>Abbrivation tag</abbr>
+<a>Anchor tag -use of link 
+<img src="">Imag tag -use of it showing the images.
+<center>Center tag</center>
+<details>Details tag-in that using summery tag</details>
+<summery>Summery tag-in that using any necessry name-in that using list tag</summery>
+<ol>Order list tag-in that we using list tags</ol>
+<li></li>
+<ul>Unorder list tag- in that we using the list tags</ul>
+<li></li>
+<table>Tables tag-in that we using the some tags</table>
+<tr>Tabler row-in that we using the another tag </tr>
+<td>Tabler data tag</td>
+<th>Tabler head line tag</th>
+
+
+
